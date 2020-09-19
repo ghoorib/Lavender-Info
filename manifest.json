@@ -1,0 +1,38 @@
+{
+  "name": "Lavender Info",
+  "short_name": "lavenderinfo",
+  "start_url": "https://lavenderinfo.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Informasi-Informasi Menarik Dari Blog Berwarna Lavender",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s48/LavenderFavicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s72/LavenderFavicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s96/LavenderFavicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s144/LavenderFavicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s168/LavenderFavicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s192/LavenderFavicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GCddqijBMFk/X2V3YxNPE8I/AAAAAAAAAG8/siVu3YnGjSAx-QNjLTmod_P8zraZjpJuQCLcBGAsYHQ/s512/LavenderFavicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
